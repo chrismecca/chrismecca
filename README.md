@@ -1,4 +1,5 @@
-# Chris Mecca
+```
+Chris Mecca
 
 Systems engineer since 1997.  I design and debug production systems: performance
 bottlenecks, distributed systems failures, migrations, observability, and infrastructure
@@ -7,16 +8,14 @@ that needs to run for years.
 Currently at AWS Professional Services working on HPC, ML/AI infrastructure, distributed
 systems, and architecture problems without obvious solutions.
 
-## Current Work
+Current Work
 
 - Building tools for performance analysis and distributed systems debugging
 - Writing about engineering topics at [moonlab.org](https://moonlab.org)
 
-## Contact
+Contact
 
-- **WWW:** [chrismecca.com](https://chrismecca.com)
-- **E-Mail:** mecca@chrismecca.com
-- **Work:** AWS Professional Services
-
----
-
+- WWW:    https://www.chrismecca.com/
+- E-Mail: mecca@chrismecca.com
+- Work:   AWS Professional Services
+```
